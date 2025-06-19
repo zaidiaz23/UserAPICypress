@@ -1,7 +1,7 @@
 # :green_book: API Testing with Cypress
 This project contains an automated api testiing using Cypress. Given project verify the behavior of the users API, with the following requests: GET, POST and DELETE.
 
-## :memo:: Prerequisites:
+## :memo: Prerequisites:
 - **[Node.js](https://nodejs.org/)** - Download and install the latest version with default settings; if you don't already have it.
 - **[Visual Studio Code (VSCode)](https://code.visualstudio.com/)** - Download and install the latest version with default settings; if you don't already have it.
 - Cypress requires Node.js in order to install. Supported versions are listed below: Node.js 18.x, 20.x, 22.x and above.
