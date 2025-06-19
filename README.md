@@ -36,7 +36,7 @@ npm install
 npm install dotenv
 ```
 
-### :hammer_and_pick:	 Installing Cypress
+### :bulb: Installing Cypress
 ```sh
 npm install cypress --save-dev
 ```
@@ -77,9 +77,9 @@ As well each test case has assertions for:
 
 
 ### Project structure:
-- cypress.config: a file to configure any prerequisites.
-- .env: to save sensitify data, this is actually submitted to the repo for testing purposes.
-- support: a folder to have any extra helpers.
-- pages: a folder to save the Page Object Models that might be needed. So apiPages.js has the logic with the methods that connect with the endpoints / keys.
-- fixtures: a folder to save files that contains data test.
-- e2e: a folder to save the test files.
+- **cypress.config:** a file to configure any prerequisites.
+- **.env:** file to save sensitify data, this is actually being submitted to the repo for testing purposes.
+- **support:** folder to have any extra helpers.
+- **pages:** folder to save the Page Object Models that might be needed. So apiPages.js has the logic with the methods that connect with the endpoints / keys.
+- **fixtures:** folder to save files that contains data test.
+- **e2e:** folder to save the test files.
