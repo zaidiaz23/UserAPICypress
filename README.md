@@ -78,7 +78,7 @@ As well each test case has assertions for:
 
 ### :round_pushpin: Project structure
 - **cypress.config:** a file to configure any prerequisites.
-- **.env:** file to save sensitify data, this is actually being submitted to the repo for testing purposes.
+- **.env:** file to save sensitive data, this is actually being submitted to the repo for testing purposes.
 - **support:** folder to have any extra helpers.
 - **pages:** folder to save the Page Object Models that might be needed. So apiPages.js has the logic with the methods that connect with the endpoints / keys.
 - **fixtures:** folder to save files that contains data test.
